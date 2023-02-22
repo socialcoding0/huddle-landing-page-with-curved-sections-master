@@ -341,6 +341,14 @@ svg path {
 
     display: flex;
     gap: 2rem;
+
+}
+
+.form label {
+    width: 100%;
+
+    display: flex;
+    gap: 2rem;
 }
 
 .form input {
