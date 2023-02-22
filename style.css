@@ -24,6 +24,11 @@ font-family: 'Poppins', sans-serif; */
     --Very-Pale-Blue: hsl(207, 100%, 98%);
 }
 
+.two h2,
+.three h2,
+.five h2 {
+    display: none;
+}
 
 body {
     font-family: 'Open Sans', sans-serif;
